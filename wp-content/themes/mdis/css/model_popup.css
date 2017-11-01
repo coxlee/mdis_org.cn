@@ -1,0 +1,140 @@
+
+.faq-cat-content {
+    margin-top: 25px;
+}
+
+.faq-cat-tabs li a {
+    padding: 15px 10px 15px 10px;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    color: #777777;
+}
+
+.nav-tabs li a:focus,
+.panel-heading a:focus {
+    outline: none;
+}
+
+.panel-heading a,
+.panel-heading a:hover,
+.panel-heading a:focus {
+    text-decoration: none;
+    color: #777777;
+   background-color:red;}
+
+.faq-cat-content .panel-heading:hover {
+    background-color: #efefef;
+}
+
+.active-faq {
+    border-left: 5px solid #888888;
+}
+
+.panel-faq .panel-heading .panel-title span {
+    font-size: 13px;
+    font-weight: normal;
+}
+.acrodian_title {
+    font-size: 14px;
+    text-align: left;
+    color: #000000;
+}
+.panel-heading-active{
+ background-color:red;
+}
+.acordian_popup_dis_content_one {
+    text-align: left;
+    font-size: 13px !important;
+}
+.acordian_popup_dis_content_two {
+   background-color: #cd1432;
+height: 25px;
+width: 100px;
+padding: 3px;
+margin-top: -33px;
+text-align: center;
+color: #ffffff !important;
+border-radius:5px;
+}
+.acordian_popup_dis_content_two a {
+    display: block;
+color: #ffffff !important;
+font-size: 12px !important;    
+}
+.acordian_popup_dis_content-bg {
+    margin: 5px;
+}
+.acordian_popup_content-bg {
+    margin: 5px;
+    background-color: #b7b4b4;
+    border-radius: 6px;
+    height: 25px;
+}
+
+.acordian_popup_level_content-bg{
+margin: 5px;
+background-color: #b7b4b4;
+border-radius: 6px;
+height: 25px;
+}
+.acordian_popup_level_content_one {
+    color: #ffffff !important;
+text-align: left;
+font-size: 14px !important;
+padding: 3px 3px 3px 10px;
+}
+.acordian_popup_level_content_two {
+    background-color: #cd1432;
+height: 25px;
+width: 70px;
+padding: 5px;
+margin-top: -36px;
+text-align: center;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.acordian_popup_level_content_two a {
+    color:#ffffff;    }
+
+
+.panel-default > .panel-heading + .panel-collapse > .panel-body {
+    border-top-color: #cd1432;
+}
+.panel-heading {
+    padding: 5px 15px;
+}
+.glyphicon-plus {
+ color:#cd1432;
+}
+.modal-body {
+    padding: 15px 15px 0px 15px;
+}
+.modal-title {
+    font-weight: 600;
+}
+.modleHeaderTitle {
+    font-size: 15px;
+color: #4a4a4a;
+font-weight: 600;
+}
+.achordin-poppu_radio-button {
+margin-top: 10px;
+font-size: 14px;
+}
+
+@media only screen and (max-width: 500px){
+	.acordian_popup_dis_content_two{
+	margin-top:0px;
+	}
+	.acordian_popup_level_content-bg{
+		    height: 50px;
+	}
+	.acordian_popup_level_content_one{
+		font-size: 13px !important;
+	}
+	.acordian_popup_level_content_two{
+		margin-top: -8px;
+		float: inherit;
+		border-radius: 5px;
+	}
+}

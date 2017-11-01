@@ -1,0 +1,132 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: LIQUID\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2017-09-08 17:22+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: LIQUID PRESS <info@lqd.jp>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:6
+msgid "Not found."
+msgstr "Not found."
+
+#: archive.php:20 index.php:15 search.php:16 single.php:104
+msgid "no image"
+msgstr "no image"
+
+#: comments.php:12
+#, php-format
+msgid "Comment (%1$s)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] "Comment (%1$s)"
+
+#: footer.php:15
+msgid "(C)"
+msgstr "(C)"
+
+#: footer.php:15
+msgid "All right reserved."
+msgstr "All right reserved."
+
+#: footer.php:17
+msgid "Theme by"
+msgstr "Theme by"
+
+#: footer.php:17
+msgid "LIQUID PRESS"
+msgstr "LIQUID PRESS"
+
+#: footer.php:18
+msgid "Powered by"
+msgstr "Powered by"
+
+#: footer.php:18
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:35
+msgid "sidebar"
+msgstr "サイドバー"
+
+#: functions.php:43
+msgid "headline"
+msgstr "ヘッドライン"
+
+#: functions.php:51
+msgid "main_head"
+msgstr "メインヘッダー"
+
+#: functions.php:59
+msgid "main_foot"
+msgstr "メインフッター"
+
+#: functions.php:67
+msgid "top_header"
+msgstr "トップヘッダー"
+
+#: functions.php:75
+msgid "footer"
+msgstr "フッター"
+
+#: functions.php:111
+msgid "Global Menu"
+msgstr "Global Menu"
+
+#: functions.php:202 single.php:67
+msgid "&lt; Prev"
+msgstr "&lt; Prev"
+
+#: functions.php:203 single.php:70
+msgid "Next &gt;"
+msgstr "Next &gt;"
+
+#: header.php:6 page.php:18 single.php:16
+msgid "TOP"
+msgstr "TOP"
+
+#: header.php:51
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+#: page.php:37 single.php:56 single.php:115
+msgid "No articles"
+msgstr "No articles"
+
+#: search.php:8
+#, php-format
+msgid "Search: %s"
+msgstr "Search: %s"
+
+#: sidebar.php:7
+msgid "Categories"
+msgstr "Categories"
+
+#: sidebar.php:13
+msgid "Tags"
+msgstr "Tags"
+
+#: single.php:27
+msgid "Last update: "
+msgstr "Last update: "
+
+#: single.php:77
+msgid "Recommend"
+msgstr "関連記事"

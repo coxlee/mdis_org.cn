@@ -1,0 +1,26 @@
+
+/************modify css******/
+.pager{
+	margin:0px;
+  margin-left: 75%;
+  margin-top: -53px;
+  margin-bottom: 40px;
+	}
+.pager li > a, .pager li > span {
+	padding: 1px 4px;
+}
+.pager li .glyphicon {
+	margin-right: 0px;
+	vertical-align: unset;
+	color:black;
+}
+.pager li .glyphicon:hover{
+	color:#CD1432;}
+.event-read-more{
+  min-height: 350px;
+}
+.event-news-head{
+  font-size: 17px;
+font-weight: 600;
+color: #323232;
+}

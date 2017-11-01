@@ -1,0 +1,1063 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+	Vision, Mission, Core Values and Culture :: MDIS
+</title><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  
+ <link rel="shortcut icon" href="/favicon.ico" />
+  <link href="/css/style.css" rel="Stylesheet" type="text/css" />
+<link href="/css/sh.style.css" rel="Stylesheet" type="text/css" />
+     
+  <script src="/js/jquery-1.6.2.min.js" type="text/javascript"></script> 
+  <link href="/css/jquery-ui-1.8.16.custom.css" rel="Stylesheet" type="text/css" />
+  <script src="/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript" ></script>
+  <script src="/js/jquery.ui.selectmenu.js" type="text/javascript" ></script>
+  <script src="/js/fc-init.js" type="text/javascript"></script>
+  <script src="/js/jquery.equalHeightColumns.min.js" type="text/javascript"></script>
+  <script src="/js/jquery-ui-timepicker-addon.js" type="text/javascript" ></script>
+  <script src="/js/jquery.ui.selectmenu.js" type="text/javascript" ></script>
+  <script src="/js/jquery.validate.min.js" type="text/javascript" ></script>
+  <script src="/js/forecepts-function.js" type="text/javascript" ></script>
+
+ <!--pretty photo -->
+  <script type='text/javascript' src='/js/jquery.prettyPhoto.js'></script>
+  <link href="/css/prettyPhoto.css" rel="Stylesheet" type="text/css" />
+
+<!--Google Search-->
+  <link href="/css/shiny.css" rel="Stylesheet" type="text/css" /> 
+
+  <!--[if IE 7]>
+  <link href="/css/ie-7.css" rel="Stylesheet" type="text/css" /> 
+  <![endif]-->
+
+
+ <!-- Bootstrap -->
+    <link href="/css/bootstrap.min.css" rel="Stylesheet" type="text/css"/>
+    <!--external stylesheet-->
+    <link href="/css/main-style.css" rel="Stylesheet" type="text/css"/>
+    <link href="/css/testinomial-slider.css" rel="Stylesheet" type="text/css"/>
+    <link href="/css/news-event.css" rel="Stylesheet" type="text/css"/>
+    <!-- Rnboto font link-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300" rel="Stylesheet" type="text/css"/>
+
+    <link href="/css/uni-partner-enquiry.css" rel="Stylesheet" type="text/css" />
+
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"  type="text/javascript"></script>
+    <link href="/css/corporate-training-style.css" rel="Stylesheet" type="text/css" />
+    
+ <!--Facebook currently no use as facebook link his facebook-->
+  <meta property='og:title' content='MDIS'/>
+  <meta property='og:type' content='website' />
+  <meta property='og:url' content='http://www.mdis.edu.sg/' />
+	<meta property='og:image' content='http://www.mdis.edu.sg/imgs/logo-2.png' />
+  <meta property='og:site_name' content='MDIS' />
+  <meta property='og:description' content="The Management Development Institute of Singapore (MDIS), founded in 1956, is Singapore's oldest not-for-profit professional institute for lifelong learning" />
+    <meta name="ROBOTS" content="INDEX, FOLLOW" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+
+    <script>
+        (function () {
+            var _fbq = window._fbq || (window._fbq = []);
+            if (!_fbq.loaded) {
+                var fbds = document.createElement('script');
+                fbds.async = true;
+                fbds.src = '//connect.facebook.net/en_US/fbds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(fbds, s);
+                _fbq.loaded = true;
+            }
+            _fbq.push(['addPixelId', '682271628501163']);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(['track', 'PixelInitialized', {}]);
+    </script>
+	<script>
+	    (function () {
+	        var headertext = [];
+	        var headers = document.querySelectorAll("thead");
+	        var tablebody = document.querySelectorAll("tbody");
+
+	        for (var i = 0; i < headers.length; i++) {
+	            headertext[i] = [];
+	            for (var j = 0, headrow; headrow = headers[i].rows[0].cells[j]; j++) {
+	                var current = headrow;
+	                headertext[i].push(current.textContent.replace(/\r?\n|\r/, ""));
+	            }
+	        }
+
+	        if (headers.length > 0) {
+	            for (var h = 0, tbody; tbody = tablebody[h]; h++) {
+	                for (var i = 0, row; row = tbody.rows[i]; i++) {
+	                    for (var j = 0, col; col = row.cells[j]; j++) {
+	                        col.setAttribute("data-th", headertext[h][j]);
+	                    }
+	                }
+	            }
+	        }
+	    }());
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '682271628501163'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=682271628501163&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+    <noscript>
+        <img height="1" width="1" alt="" style="display: none" src="https://www.facebook.com/tr?id=682271628501163&amp;ev=NoScript" />
+    </noscript>
+	
+</head>
+<body>
+    <!-- Google Code for Remarketing Tag -->
+    <!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 975909614;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/975909614/?value
+=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+
+    <!-- Google Code for Remarketing Tag -->
+    <!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 970453553;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/970453553/?value
+=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+
+    <!-- Google Code for Remarketing Tag -->
+    <!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 993548760;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/993548760/?value
+=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+
+    <!-- Google Code for Remarketing Tag -->
+    <!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 974706896;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/974706896/?value
+=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+
+    <form name="aspnetForm" method="post" action="-vision-mission-core-values-and-culture?url=about-mdis%2fcorporate-info%2f-vision-mission-core-values-and-culture" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjM4NzI0MjkwDxYCHgZub2RlSWQCxx4WAmYPZBYEAgEPZBYCAgUPZBYCAgEPFgIeBFRleHQFfTxtZXRhIG5hbWU9IlJPQk9UUyIgY29udGVudD0iSU5ERVgsIEZPTExPVyIgLz4NCjxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSIiIC8+DQo8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0iIiAvPg0KZAIDD2QWCgIBD2QWCAIBDxYCHgtfIUl0ZW1Db3VudAIDFgZmD2QWAmYPFQIyaHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hYm91dC1tZGlzL2NhcmVlcnMvb3ZlcnZpZXcIT3ZlcnZpZXdkAgEPZBYCZg8VAjxodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMvY2FyZWVycy9hY2FkZW1pYy1wb3NpdGlvbnMSQWNhZGVtaWMgUG9zaXRpb25zZAICD2QWAmYPFQJAaHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hYm91dC1tZGlzL2NhcmVlcnMvbm9uLWFjYWRlbWljLXBvc2l0aW9ucxZOb24tQWNhZGVtaWMgUG9zaXRpb25zZAIFD2QWAmYPZBYGAgEPEA8WAh4LXyFEYXRhQm91bmRnZBAVAglGdWxsIFRpbWUJUGFydCBUaW1lFQIBMQEyFCsDAmdnFgBkAgMPFgIfAmZkAgUPD2QPEBYBZhYBFgIeDlBhcmFtZXRlclZhbHVlZRYBZmRkAgYPZBYCZg9kFgYCAQ8QDxYCHwNnZBAVAglGdWxsIFRpbWUJUGFydCBUaW1lFQIBMQEyFCsDAmdnFgBkAgMPFgIfAmZkAgUPD2QPEBYBZhYBFgIfBGUWAWZkZAIHDxYCHwEFkzg8bGkgY2xhc3M9J21kaXMtbmF2IGRyb3Bkb3duJyBpZD0nYWJvdXQtbWRpcycgcnVuYXQ9J3NlcnZlcic+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMnICA+QUJPVVQgTURJUzwvYT4NCjx1bCBjbGFzcz0nZHJvcGRvd24tbWVudSc+DQo8bGkgY2xhc3M9J2Ryb3Bkb3duJz4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvYWJvdXQtbWRpcy9jb3Jwb3JhdGUtaW5mbycgPkNvcnBvcmF0ZSBJbmZvPHNwYW4gY2xhc3M9J2NhcmV0IG1kaXMtc3VibWVudS1jYXJldCc+PC9zcGFuPjwvYT4NCjx1bCBjbGFzcz0nZHJvcGRvd24tbWVudSBtZGlzLXN1Ym1lbnUnPg0KPGxpPg0KPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hYm91dC1tZGlzL2NvcnBvcmF0ZS1pbmZvLy12aXNpb24tbWlzc2lvbi1jb3JlLXZhbHVlcy1hbmQtY3VsdHVyZSc+VmlzaW9uLCBNaXNzaW9uLCBDb3JlIFZhbHVlcyBhbmQgQ3VsdHVyZTwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMvY29ycG9yYXRlLWluZm8vcHJlc2lkZW50LXMtbWVzc2FnZSc+UHJlc2lkZW50J3MgTWVzc2FnZTwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMvb3JnYW5pc2F0aW9uJyA+TURJUyBPcmdhbmlzYXRpb25zPC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvYWJvdXQtbWRpcy9tZGlzLWhlcml0YWdlJyA+TURJUyBIZXJpdGFnZTwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMvcXVhbGl0eS1wb2xpY3knID5RdWFsaXR5IGFuZCBXU0ggUG9saWN5PC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvdmlld2Rvd25sb2FkLmFzcHg/ZmlsZT1tZWRpYSU1YzQxMDlfZmlfOTAucGRmJm9maWxlPU1ESVMrQW5udWFsK1JlcG9ydCsyMDE2LnBkZicgPkFubnVhbCBSZXBvcnQgMjAxNjwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL3ZpZXdkb3dubG9hZC5hc3B4P2ZpbGU9bWVkaWElNWM0MTEwX2ZpXzU5Ny5wZGYmb2ZpbGU9TURJUytGaW5hbmNpYWwrUmVwb3J0KzIwMTYucGRmJyA+RmluYW5jaWFsIFJlcG9ydCAyMDE2PC9hPg0KPC9saT4NCjwvdWw+DQo8L2xpPg0KPGxpPg0KPGEgIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvYWJvdXQtbWRpcy9vdmVydmlldyc+QWJvdXQgTURJUzwvYT4NCjwvbGk+DQo8bGk+DQo8YSAgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hYm91dC1tZGlzL2dyZWVuLW1kaXMnPkdyZWVuIE1ESVM8L2E+DQo8L2xpPg0KPGxpPg0KPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hYm91dC1tZGlzL2VkdWNhdGlvbi10cnVzdC1mdW5kJyA+TURJUyBFZHVjYXRpb24gVHJ1c3QgRnVuZDwvYT4NCjwvbGk+DQo8bGk+DQo8YSAgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hYm91dC1tZGlzL2luc3RpdHV0aW9uYWwtcGFydG5lcnMnPkluc3RpdHV0aW9uYWwgUGFydG5lcnM8L2E+DQo8L2xpPg0KPGxpPg0KPGEgaHJlZj0namF2YXNjcmlwdDp2b2lkKDApJz5DYXJlZXJzPC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvY29udGFjdC11cycgPkNvbnRhY3QgVXM8L2E+DQo8L2xpPg0KPGxpPg0KPGEgIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvYWJvdXQtbWRpcy9nb3Zlcm5tZW50LWZ1bmRlZC1wcm9ncmFtbWVzJz5Hb3Zlcm5tZW50IEZ1bmRlZCBQcm9ncmFtbWVzPC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvYWJvdXQtbWRpcy9mYWNpbGl0aWVzJyA+TURJUyBDYW1wdXMgRGV0YWlscyBhbmQgRmFjaWxpdGllczwvYT4NCjwvbGk+DQo8L3VsPg0KPC9saT4NCjxsaSBjbGFzcz0nbWRpcy1uYXYgZHJvcGRvd24nIGlkPSd1bml2ZXJzaXR5LXBhcnRuZXJzJyBydW5hdD0nc2VydmVyJz4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvdW5pdmVyc2l0eS1wYXJ0bmVycy91bml2ZXJzaXRpZXMnID5VTklWRVJTSVRZIFBBUlRORVJTPC9hPg0KPHVsIGNsYXNzPSdkcm9wZG93bi1tZW51Jz4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvdW5pdmVyc2l0eS1wYXJ0bmVycy91bml2ZXJzaXRpZXMnID5Vbml2ZXJzaXRpZXM8L2E+DQo8L2xpPg0KPGxpPg0KPGEgIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvdW5pdmVyc2l0eS1wYXJ0bmVycy9hZmZpbGlhdGlvbnMnPkFmZmlsaWF0aW9uczwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL3VuaXZlcnNpdHktcGFydG5lcnMvb3ZlcnNlYXMtc3R1ZHktYWR2aXNvcnknID5PdmVyc2VhcyBTdHVkeSBBZHZpc29yeTwvYT4NCjwvbGk+DQo8L3VsPg0KPC9saT4NCjxsaSBjbGFzcz0nbWRpcy1uYXYgZHJvcGRvd24nIGlkPSdhZG1pc3Npb25zJyBydW5hdD0nc2VydmVyJz4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvbG9jYWwtcHJvc3BlY3RpdmUtc3R1ZGVudHMvd2h5LXN0dWR5LWF0LW1kaXMnID5BRE1JU1NJT05TPC9hPg0KPHVsIGNsYXNzPSdkcm9wZG93bi1tZW51Jz4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvbG9jYWwtcHJvc3BlY3RpdmUtc3R1ZGVudHMvd2h5LXN0dWR5LWF0LW1kaXMnID5Mb2NhbCBTdHVkZW50czwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2ludGVybmF0aW9uYWwtcHJvc3BlY3RpdmUtc3R1ZGVudHMvd2h5LXN0dWR5LWF0LW1kaXMnID5JbnRlcm5hdGlvbmFsIFN0dWRlbnRzPC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvYWRtaXNzaW9ucy9tZGlzLWNvbGxlZ2UnICB0YXJnZXQ9J19ibGFuayc+TURJUyBDb2xsZWdlPC9hPg0KPC9saT4NCjwvdWw+DQo8L2xpPg0KPGxpIGNsYXNzPSdtZGlzLW5hdiBkcm9wZG93bicgaWQ9J2N1cnJlbnQtc3R1ZGVudHMnIHJ1bmF0PSdzZXJ2ZXInPg0KPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9jdXJyZW50LXN0dWRlbnRzJyAgPkNVUlJFTlQgU1RVREVOVFM8L2E+DQo8dWwgY2xhc3M9J2Ryb3Bkb3duLW1lbnUnPg0KPGxpPg0KPGEgIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvY3VycmVudC1zdHVkZW50cy9jaGllZi1vcGVyYXRpbmctb2ZmaWNlci1zLW1lc3NhZ2UnPlByZXNpZGVudCdzIFdlbGNvbWUgTWVzc2FnZTwvYT4NCjwvbGk+DQo8bGk+DQo8YSAgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9jdXJyZW50LXN0dWRlbnRzL21kaXMtc3RyYXRlZ2ljLXNlcnZpY2UtaW50ZW50Jz5NRElTIFN0cmF0ZWdpYyBTZXJ2aWNlIEludGVudDwvYT4NCjwvbGk+DQo8bGk+DQo8YSAgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9jdXJyZW50LXN0dWRlbnRzL2JsYWNrYm9hcmQnPkJsYWNrYm9hcmQ8L2E+DQo8L2xpPg0KPGxpPg0KPGEgaHJlZj0naHR0cDovL2xpYnJhcnkubWRpcy5lZHUuc2cnICB0YXJnZXQ9J2JsYW5rJz5SZXNvdXJjZSBIdWI8L2E+DQo8L2xpPg0KPGxpPg0KPGEgIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvY3VycmVudC1zdHVkZW50cy9wcm9ncmVzc2lvbic+UHJvZ3Jlc3Npb248L2E+DQo8L2xpPg0KPGxpPg0KPGEgIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvY3VycmVudC1zdHVkZW50cy9mYXFzJz5GQVFzPC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvY2FyZWVyLWFzc2lzdGFuY2UtdW5pdCcgPkNhcmVlciBBc3Npc3RhbmNlIFVuaXQ8L2E+DQo8L2xpPg0KPGxpPg0KPGEgIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvY3VycmVudC1zdHVkZW50cy9wcml2YXRlLWVkdWNhdGlvbi1hY3QnPlByaXZhdGUgRWR1Y2F0aW9uIEFjdCAmIEVkdVRydXN0IENlcnRpZmljYXRpb24gU2NoZW1lPC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvY3VycmVudC1zdHVkZW50cy9zdHVkZW50LWNhcmUtYW5kLWFkbWluaXN0cmF0aW9uJyA+U3R1ZGVudCBDYXJlIGFuZCBBZG1pbmlzdHJhdGlvbjwvYT4NCjwvbGk+DQo8bGk+DQo8YSAgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9jdXJyZW50LXN0dWRlbnRzL3JlZnVuZC13aXRoZHJhd2FsLXRyYW5zZmVyLXBvbGljeSc+UmVmdW5kL1dpdGhkcmF3YWwvVHJhbnNmZXIgUG9saWN5PC9hPg0KPC9saT4NCjxsaT4NCjxhICBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2N1cnJlbnQtc3R1ZGVudHMvZm9ybXMnPkZvcm1zPC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvcmVmZXItYS1mcmllbmQnID5SZWZlci1hLWZyaWVuZDwvYT4NCjwvbGk+DQo8L3VsPg0KPC9saT4NCjxsaSBjbGFzcz0nbWRpcy1uYXYgZHJvcGRvd24nIGlkPSdjb3Jwb3JhdGUtdHJhaW5pbmcnIHJ1bmF0PSdzZXJ2ZXInPg0KPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9jb3Jwb3JhdGUtdHJhaW5pbmcvcHJvZ3JhbW1lcy9wcm9mZXNzaW9uYWwtZGV2ZWxvcG1lbnQtd29ya3Nob3BzL2FsbC1wcm9mZXNzaW9uYWwtZGV2ZWxvcG1lbnQtd29ya3Nob3BzL2FsbC1wcm9mZXNzaW9uYWwtZGV2ZWxvcG1lbnQtd29ya3Nob3BzJyA+Q09SUE9SQVRFIFRSQUlOSU5HPC9hPg0KPHVsIGNsYXNzPSdkcm9wZG93bi1tZW51Jz4NCjxsaSBjbGFzcz0nZHJvcGRvd24nPg0KPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9jb3Jwb3JhdGUtdHJhaW5pbmcvbWRjJyA+TURDPHNwYW4gY2xhc3M9J2NhcmV0IG1kaXMtc3VibWVudS1jYXJldCc+PC9zcGFuPjwvYT4NCjx1bCBjbGFzcz0nZHJvcGRvd24tbWVudSBtZGlzLXN1Ym1lbnUnPg0KPGxpPg0KPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9jb3Jwb3JhdGUtdHJhaW5pbmcvbWRjL2Fib3V0LW1kYycgPkFib3V0IFVzPC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvY29ycG9yYXRlLXRyYWluaW5nL3Byb2dyYW1tZXMvcHJvZmVzc2lvbmFsLWRldmVsb3BtZW50LXdvcmtzaG9wcy9hbGwtcHJvZmVzc2lvbmFsLWRldmVsb3BtZW50LXdvcmtzaG9wcy9hbGwtcHJvZmVzc2lvbmFsLWRldmVsb3BtZW50LXdvcmtzaG9wcycgPlRyYWluaW5nIFNvbHV0aW9uczwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2NvcnBvcmF0ZS10cmFpbmluZy9jb250YWN0LXVzJyA+Q29udGFjdCBVczwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2NvcnBvcmF0ZS10cmFpbmluZy90cmFpbmVycycgPkpvaW4gVXM8L2E+DQo8L2xpPg0KPGxpPg0KPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9jb3Jwb3JhdGUtdHJhaW5pbmcvZmVlZGJhY2snID5GZWVkYmFjazwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2NvcnBvcmF0ZS10cmFpbmluZy9za2lsbHNmdXR1cmUtY3JlZGl0JyA+U2tpbGxzRnV0dXJlIENyZWRpdDwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2NvcnBvcmF0ZS10cmFpbmluZy9mdW5kaW5nJyA+RnVuZGluZzwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2NvcnBvcmF0ZS10cmFpbmluZy9kb3dubG9hZC0yMDE0LXRyYWluaW5nLWNhbGVuZGFyLXBkZicgPkRvd25sb2FkIDIwMTcgVHJhaW5pbmcgQ2FsZW5kYXIgKFBERik8L2E+DQo8L2xpPg0KPGxpPg0KPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9jb3Jwb3JhdGUtdHJhaW5pbmcvZ2FsbGVyeScgPkdhbGxlcnkgLSBFbXBsb3llZSBCZW5lZml0cyBBc2lhLCBTaW5nYXBvcmUgMjAxNjwvYT4NCjwvbGk+DQo8L3VsPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cuc3FjZW50cmUuY29tL2NvbnN1bHRpbmctc2VydmljZXMvc2luZ2Fwb3JlLXF1YWxpdHktY2xhc3Mtc3FjLycgIHRhcmdldD0nYmxhbmsnPlNRQzwvYT4NCjwvbGk+DQo8L3VsPg0KPC9saT4NCjxsaSBjbGFzcz0nbWRpcy1uYXYgZHJvcGRvd24nIGlkPSdtZW1iZXJzaGlwJyBydW5hdD0nc2VydmVyJz4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvbWVtYmVyc2hpcCcgID5NRU1CRVJTSElQPC9hPg0KPHVsIGNsYXNzPSdkcm9wZG93bi1tZW51Jz4NCjxsaT4NCjxhICBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL21lbWJlcnNoaXAvb3ZlcnZpZXcnPk92ZXJ2aWV3PC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvbWVtYmVyc2hpcC9tZW1iZXJzaGlwLXR5cGVzJyA+TWVtYmVyc2hpcCBUeXBlczwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL21lbWJlcnNoaXAvbWVtYmVyc2hpcC1iZW5lZml0cycgPk1lbWJlcnNoaXAgQmVuZWZpdHM8L2E+DQo8L2xpPg0KPGxpPg0KPGEgIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvbWVtYmVyc2hpcC9wdXNoY2FydC1hdC1tZGlzJz5QdXNoY2FydCBhdCBNRElTPC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvbWVtYmVyc2hpcC9pbnRlcmVzdC1ncm91cHMnID5JbnRlcmVzdCBHcm91cHM8L2E+DQo8L2xpPg0KPGxpPg0KPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9ldmVudHMvbWVtYmVyc2hpcCcgPk1lbWJlcnNoaXAgRXZlbnRzPC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvbWVtYmVyc2hpcC9qb2luLXVzLXJlbmV3JyA+Sm9pbiBVcy9SZW5ldzwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL21lbWJlcnNoaXAvbWVtYmVyLXBhcnRpY3VsYXJzLXVwZGF0ZScgPk1lbWJlcidzIFVwZGF0ZTwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2FsdW1uaScgPkFsdW1uaTwvYT4NCjwvbGk+DQo8L3VsPg0KPC9saT4NCmQCAw8WAh8BBVw8aW1nICBzcmM9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvdmlld3BpYy5hc3B4P2ZpbGU9ZmlsZV9iYW5uZXJcMzkxMV9ibl84NTcuanBnJyBhbHQ9JycgLz4NCmQCBQ8WAh8BZWQCBw9kFgICAQ8WAh8BBeMgPGRpdiBpZD0iZGl2Q29udGVudEJveCI+DQo8dGFibGUgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiBpZD0idGJsQ29udGVudCI+DQoJPHRib2R5Pg0KCQk8dHI+DQoJCQk8dGQgaWQ9InRkQ29udGVudExlZnQiPg0KCQkJCTxkaXYgaWQ9J2RpdkNvbnRlbnRMZWZ0TWVudVdyYXBwZXInPg0KPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hYm91dC1tZGlzL2NvcnBvcmF0ZS1pbmZvJyBjbGFzcz0nYVNlbGVjdGVkJz5Db3Jwb3JhdGUgSW5mbzwvYT4NCjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvYWJvdXQtbWRpcy9vdmVydmlldycgPkFib3V0IE1ESVM8L2E+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMvZ3JlZW4tbWRpcycgPkdyZWVuIE1ESVM8L2E+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMvZWR1Y2F0aW9uLXRydXN0LWZ1bmQnID5NRElTIEVkdWNhdGlvbiBUcnVzdCBGdW5kPC9hPg0KPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hYm91dC1tZGlzL2luc3RpdHV0aW9uYWwtcGFydG5lcnMnID5JbnN0aXR1dGlvbmFsIFBhcnRuZXJzPC9hPg0KPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hYm91dC1tZGlzL2NhcmVlcnMnID5DYXJlZXJzPC9hPg0KPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9jb250YWN0LXVzJyAgPkNvbnRhY3QgVXM8L2E+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMvZ292ZXJubWVudC1mdW5kZWQtcHJvZ3JhbW1lcycgPkdvdmVybm1lbnQgRnVuZGVkIFByb2dyYW1tZXM8L2E+DQo8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMvZmFjaWxpdGllcycgPk1ESVMgQ2FtcHVzIERldGFpbHMgYW5kIEZhY2lsaXRpZXM8L2E+DQo8L2Rpdj4NCjwvdGQ+DQoJCQk8dGQgaWQ9InRkQ29udGVudFJpZ2h0Ij4NCgkJCQk8ZGl2IGlkPSJkaXZCcmVhZGNydW1iRm9yQ0tFZGl0b3IiPg0KCQkJCTxkaXYgaWQ9J2RpdkJyZWFkY3J1bWInPg0KPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy8nPkhvbWU8L2E+DQogPiA8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMnID5BQk9VVCBNRElTPC9hPg0KID4gPGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hYm91dC1tZGlzL2NvcnBvcmF0ZS1pbmZvJyA+Q29ycG9yYXRlIEluZm88L2E+DQogPiA8YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMvY29ycG9yYXRlLWluZm8vLXZpc2lvbi1taXNzaW9uLWNvcmUtdmFsdWVzLWFuZC1jdWx0dXJlJyAgY2xhc3M9J2FTZWxlY3RlZCc+VmlzaW9uLCBNaXNzaW9uLCBDb3JlIFZhbHVlcyBhbmQgQ3VsdHVyZTwvYT4NCjwvZGl2Pg0KPGgxPkNvcnBvcmF0ZSBJbmZvPC9oMT4NCjxkaXYgaWQ9J2RpdkNvbnRlbnRNZW51Jz4NCjx1bD4NCjxsaSBjbGFzcz0nbHZsXzEgc2VsZWN0ZWQnPjxhIGhyZWY9J2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvYWJvdXQtbWRpcy9jb3Jwb3JhdGUtaW5mby8tdmlzaW9uLW1pc3Npb24tY29yZS12YWx1ZXMtYW5kLWN1bHR1cmUnPlZpc2lvbiwgTWlzc2lvbiwgQ29yZSBWYWx1ZXMgYW5kIEN1bHR1cmU8L2E+PC9saT4NCjxsaSBjbGFzcz0nZW1wdHknPjxzcGFuPjwvc3Bhbj48L2xpPg0KPGxpIGNsYXNzPSdlbXB0eSc+PHNwYW4+PC9zcGFuPjwvbGk+DQo8bGkgY2xhc3M9J2x2bF8yJz48YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMvY29ycG9yYXRlLWluZm8vcHJlc2lkZW50LXMtbWVzc2FnZSc+UHJlc2lkZW50J3MgTWVzc2FnZTwvYT48L2xpPg0KPGxpIGNsYXNzPSdsdmxfMic+PGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hYm91dC1tZGlzL2NvcnBvcmF0ZS1pbmZvL21kaXMtb3JnYW5pc2F0aW9ucyc+TURJUyBPcmdhbmlzYXRpb25zPC9hPjwvbGk+DQo8bGkgY2xhc3M9J2x2bF8xJz48YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMvY29ycG9yYXRlLWluZm8vbWRpcy1oZXJpdGFnZSc+TURJUyBIZXJpdGFnZTwvYT48L2xpPg0KPGxpIGNsYXNzPSdsdmxfMic+PGEgaHJlZj0naHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hYm91dC1tZGlzL2NvcnBvcmF0ZS1pbmZvL3F1YWxpdHktcG9saWN5Jz5RdWFsaXR5IGFuZCBXU0ggUG9saWN5PC9hPjwvbGk+DQo8bGkgY2xhc3M9J2x2bF8yJz48YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMvY29ycG9yYXRlLWluZm8vYW5udWFsLXJlcG9ydC0yMDE1LXBkZic+QW5udWFsIFJlcG9ydCAyMDE2PC9hPjwvbGk+DQo8bGkgY2xhc3M9J2x2bF8zJz48YSBocmVmPSdodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2Fib3V0LW1kaXMvY29ycG9yYXRlLWluZm8vZmluYW5jaWFsLXJlcG9ydC0yMDE1LXBkZic+RmluYW5jaWFsIFJlcG9ydCAyMDE2PC9hPjwvbGk+DQo8L3VsPg0KPGRpdiBjbGFzcz0nZGl2Q2xlYXInPjwvZGl2Pg0KPC9kaXY+PCEtLSBkaXZDb250ZW50TWVudSAgLS0+DQoNCgkJCQk8L2Rpdj4NCgkJCQk8ZGl2IGlkPSJkaXZDb250ZW50Ij4NCgkJCQk8aDE+DQoJCQkJCVZpc2lvbiwgTWlzc2lvbiwgQ29yZSBWYWx1ZXMgYW5kIEN1bHR1cmU8L2gxPg0KCQkJCTxoMj4NCgkJCQkJPGJyIC8+DQoJCQkJCVZpc2lvbjwvaDI+DQoJCQkJPHA+DQoJCQkJVGhlIGNob2ljZSBmb3IgbGlmZWxvbmcgbGVhcm5pbmcgd2l0aCBnbG9iYWwgcmVjb2duaXRpb24uJm5ic3A7DQoJCQkJPC9wPg0KCQkJCTxoMj4NCgkJCQkJTWlzc2lvbjwvaDI+DQoJCQkJPHA+DQoJCQkJQW4gaW5zdGl0dXRpb24gdGhhdCBtYXhpbWlzZXMgdGhlIGZ1dHVyZSByZWFkaW5lc3Mgb2YgaW5kaXZpZHVhbHMgYW5kIG9yZ2FuaXNhdGlvbnMgdGhyb3VnaCBnbG9iYWxseSByZWNvZ25pc2VkIGFuZCBjb21wZXRlbmN5LWJhc2VkIHByb2dyYW1tZXMuDQoJCQkJPC9wPg0KCQkJCTxoMj4NCgkJCQkJQ29yZSBWYWx1ZXM8L2gyPg0KCQkJCTxwPg0KCQkJCVRoZSBhY3JvbnltIGZvciB0aGUgTURJUyBDb3JlIFZhbHVlcyBpcyA8c3BhbiBzdHlsZT0iY29sb3I6I2ZmMDAwMDsiPjxzdHJvbmc+TEVBUk48L3N0cm9uZz48L3NwYW4+LiZuYnNwOw0KCQkJCTwvcD4NCgkJCQk8cD4NCgkJCQk8c3BhbiBzdHlsZT0iY29sb3I6I2ZmMDAwMDsiPkw8L3NwYW4+Jm5ic3A7IDombmJzcDsgTGlmZWxvbmcgTGVhcm5pbmcgLSBXZSBlbWJyYWNlIDxzdHJvbmc+bGlmZWxvbmcgbGVhcm5pbmc8L3N0cm9uZz4uPGJyIC8+DQoJCQkJJm5ic3A7PGJyIC8+DQoJCQkJPHNwYW4gc3R5bGU9ImNvbG9yOiNmZjAwMDA7Ij5FPC9zcGFuPiZuYnNwOyA6Jm5ic3A7IEV4Y2VsbGVuY2UgLSBXZSBzdHJpdmUgZm9yIDxzdHJvbmc+ZXhjZWxsZW5jZTwvc3Ryb25nPiBpbiBjdXN0b21lciBjYXJlLjxiciAvPg0KCQkJCSZuYnNwOzxiciAvPg0KCQkJCTxzcGFuIHN0eWxlPSJjb2xvcjojZmYwMDAwOyI+QSZuYnNwOzwvc3Bhbj4gOiZuYnNwOyBBYmlsaXR5LWRyaXZlbiAtIFdlIG9mZmVyIDxzdHJvbmc+YWJpbGl0eS1kcml2ZW48L3N0cm9uZz4gZWR1Y2F0aW9uIGFuZCB0cmFpbmluZy48YnIgLz4NCgkJCQkmbmJzcDs8YnIgLz4NCgkJCQk8c3BhbiBzdHlsZT0iY29sb3I6I2ZmMDAwMDsiPlI8L3NwYW4+Jm5ic3A7IDombmJzcDsgUmVzcG9uc2liaWxpdHkgLSBXZSB0YWtlIHV0bW9zdCA8c3Ryb25nPnJlc3BvbnNpYmlsaXR5PC9zdHJvbmc+IGluIGVuc3VyaW5nIGhpZ2ggcXVhbGl0eSBwcm9ncmFtbWVzLjxiciAvPg0KCQkJCSZuYnNwOzxiciAvPg0KCQkJCTxzcGFuIHN0eWxlPSJjb2xvcjojZmYwMDAwOyI+Tjwvc3Bhbj4mbmJzcDsgOiZuYnNwOyBOdXJ0dXJlIC0gV2UgPHN0cm9uZz5udXJ0dXJlPC9zdHJvbmc+IHRhbGVudHMgZm9yIHRoZSBuZXcgZWNvbm9teS4NCgkJCQk8L3A+DQoJCQkJPGgyPg0KCQkJCQlDdWx0dXJlPC9oMj4NCgkJCQk8cD4NCgkJCQlNRElTIGVtYnJhY2VzIGEgY3VsdHVyZSBvZiBsaWZlbG9uZyBsZWFybmluZyB0byBudXJ0dXJlIGFuZCBtYXhpbWlzZSB0aGUgcG90ZW50aWFsIG9mIG91ciBzdGFrZWhvbGRlcnMuDQoJCQkJPC9wPg0KCQkJCTwvZGl2Pg0KCQkJCTwhLS0gZGl2Q29udGVudCAtLT48L3RkPg0KCQk8L3RyPg0KCTwvdGJvZHk+DQo8L3RhYmxlPg0KPC9kaXY+DQo8IS0tIGRpdkNvbnRlbnRCb3ggIC0tPmQCCQ9kFgZmDxYCHwICBhYMZg9kFgJmDxUCMGh0dHA6Ly93d3cubWRpcy5lZHUuc2cvYWJvdXQtbWRpcy9jb3Jwb3JhdGUtaW5mbw5Db3Jwb3JhdGUgSW5mb2QCAQ9kFgJmDxUCKmh0dHA6Ly93d3cubWRpcy5lZHUuc2cvYWJvdXQtbWRpcy9vdmVydmlldwpBYm91dCBNRElTZAICD2QWAmYPFQIsaHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hYm91dC1tZGlzL2dyZWVuLW1kaXMKR3JlZW4gTURJU2QCAw9kFgJmDxUCNmh0dHA6Ly93d3cubWRpcy5lZHUuc2cvYWJvdXQtbWRpcy9lZHVjYXRpb24tdHJ1c3QtZnVuZBlNRElTIEVkdWNhdGlvbiBUcnVzdCBGdW5kZAIED2QWAmYPFQI4aHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hYm91dC1tZGlzL2luc3RpdHV0aW9uYWwtcGFydG5lcnMWSW5zdGl0dXRpb25hbCBQYXJ0bmVyc2QCBQ9kFgJmDxUCKWh0dHA6Ly93d3cubWRpcy5lZHUuc2cvYWJvdXQtbWRpcy9jYXJlZXJzB0NhcmVlcnNkAgIPFgIfAgIFFgpmD2QWAmYPFQImaHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hbHVtbmkvb3ZlcnZpZXcIT3ZlcnZpZXdkAgEPZBYCZg8VAi1odHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2FsdW1uaS9hbHVtbmktc2VydmljZXMPQWx1bW5pIFNlcnZpY2VzZAICD2QWAmYPFQIqaHR0cDovL3d3dy5tZGlzLmVkdS5zZy9hbHVtbmkvZ2V0LWludm9sdmVkDEdldCBJbnZvbHZlZGQCAw9kFgJmDxUCK2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvYWx1bW5pL2FsdW1uaS1ldmVudHMNQWx1bW5pIEV2ZW50c2QCBA9kFgJmDxUCL2h0dHA6Ly93d3cubWRpcy5lZHUuc2cvYWx1bW5pL2FsdW1uaS1uZXdzbGV0dGVyEUFsdW1uaSBOZXdzbGV0dGVyZAIEDxYCHwICBhYMZg9kFgJmDxUCNmh0dHA6Ly93d3cubWRpcy5lZHUuc2cvY2FyZWVyLWFzc2lzdGFuY2UtdW5pdC9vdmVydmlldwhPdmVydmlld2QCAQ9kFgJmDxUCOmh0dHA6Ly93d3cubWRpcy5lZHUuc2cvY2FyZWVyLWFzc2lzdGFuY2UtdW5pdC9jYXUtc2VydmljZXMMQ0FVIFNlcnZpY2VzZAICD2QWAmYPFQJGaHR0cDovL3d3dy5tZGlzLmVkdS5zZy9jYXJlZXItYXNzaXN0YW5jZS11bml0L21kaXMtZXhwZXJpZW5jZS13b3Jrc2hvcBhNRElTIEV4cGVyaWVuY2UgV29ya3Nob3BkAgMPZBYCZg8VAj5odHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2NhcmVlci1hc3Npc3RhbmNlLXVuaXQvbWRpcy1jYXJlZXItZmFpchBNRElTIENhcmVlciBGYWlyZAIED2QWAmYPFQI9aHR0cDovL3d3dy5tZGlzLmVkdS5zZy9jYXJlZXItYXNzaXN0YW5jZS11bml0L2NhcmVlci1hcnRpY2xlcw9DYXJlZXIgQXJ0aWNsZXNkAgUPZBYCZg8VAjpodHRwOi8vd3d3Lm1kaXMuZWR1LnNnL2NhcmVlci1hc3Npc3RhbmNlLXVuaXQvdGVzdGltb25pYWxzDFRlc3RpbW9uaWFsc2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFG2N0bDAwJHVjaGVhZGVyJGltZ0J0blNlYXJjaBrNEIxkvkjJUcRMPkeBnc+UKY2I" />
+
+
+<script src="/ScriptResource.axd?d=1rszKkUyB_9xmkuro4BTTER92hdmmdagLbqfy-IauSThi-9xvZ7K07TgKJn3VLlyAswhFNbQh6M4wH04flsauyLGlky1EPwde5qWawPNE2Tw9eZU2NB9vDON6KE_uHXr9WZC5CSJLpJiWw51X2FpQTbDj9fbijoXTfmHsV7LIwTi61HG0&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3989C74E" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCQLn4piZBgLmoZ3LDQK40rakAwKCoL6JDQKDoL6JDQKNz5TnAQLG5s2pBQLH5s2pBQLJiefHCUGZzbN0H4HoGOiqfY4b5D54N1co" />
+        
+
+
+ <script type="text/javascript">
+     function openModal() {
+         $('#Modal-Level').modal('show');
+     }
+</script>
+
+       <script type="text/javascript">
+           function openModal2() {
+               $('#Modal-Discipline').modal('show');
+           }
+</script>
+<div class="container-fluid">
+    <!--container fluid start-->
+    <div class="row">
+        <div class="col-md-3 col-sm-12">
+            <!--logo-->
+            <a href='/'>
+                <img class="img-responsive mdis-logo" src='/images/logo.png' alt='MDIS logo' /></a>
+        </div>
+        <div class="col-md-9 col-sm-12">
+            <!--logo side section start-->
+            <div class="row header-1">
+                <div class="">
+                    <div class="col-md-2 search1 text-center">
+                        <a href="#" class=" dropdown dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Careers<img src='/images/down-arrow.png' /></a>
+                        <ul id="careers" class="dropdown-menu">
+
+                            
+                                    <li><a href='http://www.mdis.edu.sg/about-mdis/careers/overview'>Overview</a></li>
+                                
+                                    <li><a href='http://www.mdis.edu.sg/about-mdis/careers/academic-positions'>Academic Positions</a></li>
+                                
+                                    <li><a href='http://www.mdis.edu.sg/about-mdis/careers/non-academic-positions'>Non-Academic Positions</a></li>
+                                
+                            
+
+                        </ul>
+                    </div>
+                    <div class="col-md-3 search1 text-center">
+
+                        <a href="#">Select Language:</a>
+                        <a href="#" class="dropdown dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">English<img src='/images/down-arrow.png' /></a>
+                        <ul id="language" class="dropdown-menu">
+                            <li><a href="#">English</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="http://mdis.org.cn/">中文</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="http://mdisvn.mdis.edu.sg/">Tiếng Việt</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="http://www.mdis.edu.sg/korea/whymdis">한국어</a></li>
+                            <li role="separator" class="divider"></li>
+
+                        </ul>
+                    </div>
+                    <div class="col-md-3 search1 text-center">
+                        <a href="#">MDIS Overseas Campus:</a>
+                        <a href="#" class="dropdown dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">&nbsp;&nbsp;&nbsp;&nbsp;<img src='/images/down-arrow.png' /></a>
+                        <ul id="campus" class="dropdown-menu">
+                            <li><a href="http://www.mdis.edu.my/" target="_blank">Kolej MDIS Malaysia</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="http://www.mdis.uz/" target="_blank">MDIS Tashkent</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="http://www.mdis.edu.my/" target="_blank">MDIS Vels</a></li>
+                            <li role="separator" class="divider"></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-2 search1 text-center">
+                        <a class="addthis_button_compact" id='aShare'>SHARE<img src='/images/share-icon.png' />
+                            <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e4c8b146a3f120b"></script>
+                        </a>
+
+                    </div>
+
+                    <div class="col-md-2 text-center search-box2">
+                        <div class="input-group stylish-input-group">
+
+                            <input name="ctl00$ucheader$txtSearch" type="text" id="ctl00_ucheader_txtSearch" class="form-control" placeholder="Search" style="width: 100%; margin-bottom: 5px;" />
+                            <input type="image" name="ctl00$ucheader$imgBtnSearch" id="ctl00_ucheader_imgBtnSearch" class="search1-go-icon" src="../../imgs/search-go.png" border="0" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row header-2">
+                <div class="sec">
+                    <div class="col-md-6 col-sm-6 text-left">
+                        <p class="header_2_para">
+                            The Course finder will help you filter through our entire range of courses. 
+							You can browse by level, discipline or institution.
+                        </p>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-5 course-img1">
+                            <img src='/images/course-finder.png' width="150" />
+                    </div>
+
+
+
+                    <div class="col-md-4 col-sm-4 col-xs-7 text-right course-box">
+                        <div>
+                        <button class="head-button" type="button" data-toggle="modal" data-target="#Modal-Discipline">Discipline<img src='/images/right-arrow.png' /></button>
+
+                      
+                                <!-- Modal -->
+                                <div class="modal fade" id="Modal-Discipline" role="dialog">
+                                    <div class="modal-dialog">
+                                          <div id="ctl00_ucheader_UpdatePanel1">
+	
+                                        <!-- Modal content-->
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                <h4 class="modal-title text-left" style="font-weight: 600;">Course Finder</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row" style=" margin-top: -15px; margin-bottom: 6px;">
+                                                    <div class="col-md-4 col-sm-4">
+                                                        <h6 class="modleHeaderTitle">Are you interested in:</h6>
+                                                    </div>
+                                                    <div class="col-md-8 col-sm-8 achordin-poppu_radio-button">
+                                                        <span id="ctl00_ucheader_rdoCourseDiscipline" OnClick="openModal2();"><input id="ctl00_ucheader_rdoCourseDiscipline_0" type="radio" name="ctl00$ucheader$rdoCourseDiscipline" value="1" onclick="javascript:setTimeout('__doPostBack(\'ctl00$ucheader$rdoCourseDiscipline$0\',\'\')', 0)" /><label for="ctl00_ucheader_rdoCourseDiscipline_0">Full Time</label><input id="ctl00_ucheader_rdoCourseDiscipline_1" type="radio" name="ctl00$ucheader$rdoCourseDiscipline" value="2" onclick="javascript:setTimeout('__doPostBack(\'ctl00$ucheader$rdoCourseDiscipline$1\',\'\')', 0)" /><label for="ctl00_ucheader_rdoCourseDiscipline_1">Part Time</label></span>
+                                                    </div>                                                
+                                                </div>
+                                                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                                                
+                                                </div>
+                                               
+
+     
+
+                                            </div>
+                                            <div class="modal-footer">
+                                                
+                                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                            </div>
+                                        </div>
+                                         
+</div>
+                                    </div>
+                                </div>
+                                <!-- Modal -->
+                           
+                        <!--<button class="head-button">institution<img src="images/right-arrow.png"></button>-->
+                        </div>
+                        <div>
+                        <button class="head-button" type="button" data-toggle="modal" data-target="#Modal-Level">Level<img src='/images/right-arrow.png' /></button>
+                       
+                       
+                                <!-- Modal -->
+                                <div class="modal fade" id="Modal-Level" role="dialog">
+                                    <div class="modal-dialog">
+                                         <div id="ctl00_ucheader_pnlUpdatePopup">
+	
+                                        <!-- Modal content-->
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                <h4 class="modal-title  text-left" style="font-weight: 600;">Course Finder</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row">
+                                                    <div class="col-md-4 col-sm-4">
+                                                        <h6 class="modleHeaderTitle">Are you interested in:</h6>
+                                                    </div>
+                                                    <div class="col-md-8 col-sm-8  achordin-poppu_radio-button">
+                                                        <span id="ctl00_ucheader_rdoCourseLevel"><input id="ctl00_ucheader_rdoCourseLevel_0" type="radio" name="ctl00$ucheader$rdoCourseLevel" value="1" onclick="javascript:setTimeout('__doPostBack(\'ctl00$ucheader$rdoCourseLevel$0\',\'\')', 0)" /><label for="ctl00_ucheader_rdoCourseLevel_0">Full Time</label><input id="ctl00_ucheader_rdoCourseLevel_1" type="radio" name="ctl00$ucheader$rdoCourseLevel" value="2" onclick="javascript:setTimeout('__doPostBack(\'ctl00$ucheader$rdoCourseLevel$1\',\'\')', 0)" /><label for="ctl00_ucheader_rdoCourseLevel_1">Part Time</label></span>
+                                                    </div>
+                                                </div>
+                                                <div class="panel-group" id="accordion1" role="tablist" aria-multiselectable="true">
+                                                
+                                                 </div>
+                                                    
+                                                
+                                            </div>
+                                            
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                            </div>
+                                        </div>
+                                        
+</div>
+                                    </div>
+                                </div>
+                                <!-- Modal -->
+
+
+                            
+                        </div>
+                        
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="row">
+                <!--navigation start-->
+                <nav class="navbar navbar-default">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+
+                    </div>
+
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav navbar-left">
+
+                            <li class='mdis-nav dropdown' id='about-mdis' runat='server'>
+<a href='http://www.mdis.edu.sg/about-mdis'  >ABOUT MDIS</a>
+<ul class='dropdown-menu'>
+<li class='dropdown'>
+<a href='http://www.mdis.edu.sg/about-mdis/corporate-info' >Corporate Info<span class='caret mdis-submenu-caret'></span></a>
+<ul class='dropdown-menu mdis-submenu'>
+<li>
+<a href='http://www.mdis.edu.sg/about-mdis/corporate-info/-vision-mission-core-values-and-culture'>Vision, Mission, Core Values and Culture</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/about-mdis/corporate-info/president-s-message'>President's Message</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/about-mdis/organisation' >MDIS Organisations</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/about-mdis/mdis-heritage' >MDIS Heritage</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/about-mdis/quality-policy' >Quality and WSH Policy</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/viewdownload.aspx?file=media%5c4109_fi_90.pdf&ofile=MDIS+Annual+Report+2016.pdf' >Annual Report 2016</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/viewdownload.aspx?file=media%5c4110_fi_597.pdf&ofile=MDIS+Financial+Report+2016.pdf' >Financial Report 2016</a>
+</li>
+</ul>
+</li>
+<li>
+<a  href='http://www.mdis.edu.sg/about-mdis/overview'>About MDIS</a>
+</li>
+<li>
+<a  href='http://www.mdis.edu.sg/about-mdis/green-mdis'>Green MDIS</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/about-mdis/education-trust-fund' >MDIS Education Trust Fund</a>
+</li>
+<li>
+<a  href='http://www.mdis.edu.sg/about-mdis/institutional-partners'>Institutional Partners</a>
+</li>
+<li>
+<a href='javascript:void(0)'>Careers</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/contact-us' >Contact Us</a>
+</li>
+<li>
+<a  href='http://www.mdis.edu.sg/about-mdis/government-funded-programmes'>Government Funded Programmes</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/about-mdis/facilities' >MDIS Campus Details and Facilities</a>
+</li>
+</ul>
+</li>
+<li class='mdis-nav dropdown' id='university-partners' runat='server'>
+<a href='http://www.mdis.edu.sg/university-partners/universities' >UNIVERSITY PARTNERS</a>
+<ul class='dropdown-menu'>
+<li>
+<a href='http://www.mdis.edu.sg/university-partners/universities' >Universities</a>
+</li>
+<li>
+<a  href='http://www.mdis.edu.sg/university-partners/affiliations'>Affiliations</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/university-partners/overseas-study-advisory' >Overseas Study Advisory</a>
+</li>
+</ul>
+</li>
+<li class='mdis-nav dropdown' id='admissions' runat='server'>
+<a href='http://www.mdis.edu.sg/local-prospective-students/why-study-at-mdis' >ADMISSIONS</a>
+<ul class='dropdown-menu'>
+<li>
+<a href='http://www.mdis.edu.sg/local-prospective-students/why-study-at-mdis' >Local Students</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/international-prospective-students/why-study-at-mdis' >International Students</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/admissions/mdis-college'  target='_blank'>MDIS College</a>
+</li>
+</ul>
+</li>
+<li class='mdis-nav dropdown' id='current-students' runat='server'>
+<a href='http://www.mdis.edu.sg/current-students'  >CURRENT STUDENTS</a>
+<ul class='dropdown-menu'>
+<li>
+<a  href='http://www.mdis.edu.sg/current-students/chief-operating-officer-s-message'>President's Welcome Message</a>
+</li>
+<li>
+<a  href='http://www.mdis.edu.sg/current-students/mdis-strategic-service-intent'>MDIS Strategic Service Intent</a>
+</li>
+<li>
+<a  href='http://www.mdis.edu.sg/current-students/blackboard'>Blackboard</a>
+</li>
+<li>
+<a href='http://library.mdis.edu.sg'  target='blank'>Resource Hub</a>
+</li>
+<li>
+<a  href='http://www.mdis.edu.sg/current-students/progression'>Progression</a>
+</li>
+<li>
+<a  href='http://www.mdis.edu.sg/current-students/faqs'>FAQs</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/career-assistance-unit' >Career Assistance Unit</a>
+</li>
+<li>
+<a  href='http://www.mdis.edu.sg/current-students/private-education-act'>Private Education Act & EduTrust Certification Scheme</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/current-students/student-care-and-administration' >Student Care and Administration</a>
+</li>
+<li>
+<a  href='http://www.mdis.edu.sg/current-students/refund-withdrawal-transfer-policy'>Refund/Withdrawal/Transfer Policy</a>
+</li>
+<li>
+<a  href='http://www.mdis.edu.sg/current-students/forms'>Forms</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/refer-a-friend' >Refer-a-friend</a>
+</li>
+</ul>
+</li>
+<li class='mdis-nav dropdown' id='corporate-training' runat='server'>
+<a href='http://www.mdis.edu.sg/corporate-training/programmes/professional-development-workshops/all-professional-development-workshops/all-professional-development-workshops' >CORPORATE TRAINING</a>
+<ul class='dropdown-menu'>
+<li class='dropdown'>
+<a href='http://www.mdis.edu.sg/corporate-training/mdc' >MDC<span class='caret mdis-submenu-caret'></span></a>
+<ul class='dropdown-menu mdis-submenu'>
+<li>
+<a href='http://www.mdis.edu.sg/corporate-training/mdc/about-mdc' >About Us</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/corporate-training/programmes/professional-development-workshops/all-professional-development-workshops/all-professional-development-workshops' >Training Solutions</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/corporate-training/contact-us' >Contact Us</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/corporate-training/trainers' >Join Us</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/corporate-training/feedback' >Feedback</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/corporate-training/skillsfuture-credit' >SkillsFuture Credit</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/corporate-training/funding' >Funding</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/corporate-training/download-2014-training-calendar-pdf' >Download 2017 Training Calendar (PDF)</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/corporate-training/gallery' >Gallery - Employee Benefits Asia, Singapore 2016</a>
+</li>
+</ul>
+</li>
+<li>
+<a href='http://www.sqcentre.com/consulting-services/singapore-quality-class-sqc/'  target='blank'>SQC</a>
+</li>
+</ul>
+</li>
+<li class='mdis-nav dropdown' id='membership' runat='server'>
+<a href='http://www.mdis.edu.sg/membership'  >MEMBERSHIP</a>
+<ul class='dropdown-menu'>
+<li>
+<a  href='http://www.mdis.edu.sg/membership/overview'>Overview</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/membership/membership-types' >Membership Types</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/membership/membership-benefits' >Membership Benefits</a>
+</li>
+<li>
+<a  href='http://www.mdis.edu.sg/membership/pushcart-at-mdis'>Pushcart at MDIS</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/membership/interest-groups' >Interest Groups</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/events/membership' >Membership Events</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/membership/join-us-renew' >Join Us/Renew</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/membership/member-particulars-update' >Member's Update</a>
+</li>
+<li>
+<a href='http://www.mdis.edu.sg/alumni' >Alumni</a>
+</li>
+</ul>
+</li>
+
+                        </ul>
+                    </div>
+                    <!--navbar-collapse end -->
+                </nav>
+            </div>
+            <!--navigation start-->
+        </div>
+        <!--logo side section end-->
+    </div>
+</div>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.9/jquery-ui.js" type="text/javascript"></script>
+<link href='/css/model_popup.css' rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+
+    $(function () {
+        $("#dvAccordian").accordion();
+    });
+    $(function () {
+        $("#divMdisSchool").accordion();
+    });
+
+</script>
+<script>
+    $(document).ready(function () {
+        $('.collapse').on('show.bs.collapse', function () {
+            var id = $(this).attr('id');
+            $('a[href="#' + id + '"]').closest('.panel-heading').addClass('active-faq');
+            $('a[href="#' + id + '"] .panel-title span').html('<i class="glyphicon glyphicon-minus"></i>');
+        });
+        $('.collapse').on('hide.bs.collapse', function () {
+            var id = $(this).attr('id');
+            $('a[href="#' + id + '"]').closest('.panel-heading').removeClass('active-faq');
+            $('a[href="#' + id + '"] .panel-title span').html('<i class="glyphicon glyphicon-plus"></i>');
+        });
+    });
+</script>
+         <div class="container-fluid">
+        <div class="row">
+            <div class="item">
+                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="item active">
+                              <img  src='http://www.mdis.edu.sg/viewpic.aspx?file=file_banner\3911_bn_857.jpg' alt='' />
+     
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row about">
+            <p class="text-center">
+               
+                
+            </p>
+        </div>
+        <div class="container">
+            <!-- about us section container start-->
+            <div class="row about-section col-md-12">
+
+                
+                <div class="container-fluid">
+                       
+                    
+<div id="divContentBox">
+<table cellpadding="0" cellspacing="0" id="tblContent">
+	<tbody>
+		<tr>
+			<td id="tdContentLeft">
+				<div id='divContentLeftMenuWrapper'>
+<a href='http://www.mdis.edu.sg/about-mdis/corporate-info' class='aSelected'>Corporate Info</a>
+<a href='http://www.mdis.edu.sg/about-mdis/overview' >About MDIS</a>
+<a href='http://www.mdis.edu.sg/about-mdis/green-mdis' >Green MDIS</a>
+<a href='http://www.mdis.edu.sg/about-mdis/education-trust-fund' >MDIS Education Trust Fund</a>
+<a href='http://www.mdis.edu.sg/about-mdis/institutional-partners' >Institutional Partners</a>
+<a href='http://www.mdis.edu.sg/about-mdis/careers' >Careers</a>
+<a href='http://www.mdis.edu.sg/contact-us'  >Contact Us</a>
+<a href='http://www.mdis.edu.sg/about-mdis/government-funded-programmes' >Government Funded Programmes</a>
+<a href='http://www.mdis.edu.sg/about-mdis/facilities' >MDIS Campus Details and Facilities</a>
+</div>
+</td>
+			<td id="tdContentRight">
+				<div id="divBreadcrumbForCKEditor">
+				<div id='divBreadcrumb'>
+<a href='http://www.mdis.edu.sg/'>Home</a>
+ > <a href='http://www.mdis.edu.sg/about-mdis' >ABOUT MDIS</a>
+ > <a href='http://www.mdis.edu.sg/about-mdis/corporate-info' >Corporate Info</a>
+ > <a href='http://www.mdis.edu.sg/about-mdis/corporate-info/-vision-mission-core-values-and-culture'  class='aSelected'>Vision, Mission, Core Values and Culture</a>
+</div>
+<h1>Corporate Info</h1>
+<div id='divContentMenu'>
+<ul>
+<li class='lvl_1 selected'><a href='http://www.mdis.edu.sg/about-mdis/corporate-info/-vision-mission-core-values-and-culture'>Vision, Mission, Core Values and Culture</a></li>
+<li class='empty'><span></span></li>
+<li class='empty'><span></span></li>
+<li class='lvl_2'><a href='http://www.mdis.edu.sg/about-mdis/corporate-info/president-s-message'>President's Message</a></li>
+<li class='lvl_2'><a href='http://www.mdis.edu.sg/about-mdis/corporate-info/mdis-organisations'>MDIS Organisations</a></li>
+<li class='lvl_1'><a href='http://www.mdis.edu.sg/about-mdis/corporate-info/mdis-heritage'>MDIS Heritage</a></li>
+<li class='lvl_2'><a href='http://www.mdis.edu.sg/about-mdis/corporate-info/quality-policy'>Quality and WSH Policy</a></li>
+<li class='lvl_2'><a href='http://www.mdis.edu.sg/about-mdis/corporate-info/annual-report-2015-pdf'>Annual Report 2016</a></li>
+<li class='lvl_3'><a href='http://www.mdis.edu.sg/about-mdis/corporate-info/financial-report-2015-pdf'>Financial Report 2016</a></li>
+</ul>
+<div class='divClear'></div>
+</div><!-- divContentMenu  -->
+
+				</div>
+				<div id="divContent">
+				<h1>
+					Vision, Mission, Core Values and Culture</h1>
+				<h2>
+					<br />
+					Vision</h2>
+				<p>
+				The choice for lifelong learning with global recognition.&nbsp;
+				</p>
+				<h2>
+					Mission</h2>
+				<p>
+				An institution that maximises the future readiness of individuals and organisations through globally recognised and competency-based programmes.
+				</p>
+				<h2>
+					Core Values</h2>
+				<p>
+				The acronym for the MDIS Core Values is <span style="color:#ff0000;"><strong>LEARN</strong></span>.&nbsp;
+				</p>
+				<p>
+				<span style="color:#ff0000;">L</span>&nbsp; :&nbsp; Lifelong Learning - We embrace <strong>lifelong learning</strong>.<br />
+				&nbsp;<br />
+				<span style="color:#ff0000;">E</span>&nbsp; :&nbsp; Excellence - We strive for <strong>excellence</strong> in customer care.<br />
+				&nbsp;<br />
+				<span style="color:#ff0000;">A&nbsp;</span> :&nbsp; Ability-driven - We offer <strong>ability-driven</strong> education and training.<br />
+				&nbsp;<br />
+				<span style="color:#ff0000;">R</span>&nbsp; :&nbsp; Responsibility - We take utmost <strong>responsibility</strong> in ensuring high quality programmes.<br />
+				&nbsp;<br />
+				<span style="color:#ff0000;">N</span>&nbsp; :&nbsp; Nurture - We <strong>nurture</strong> talents for the new economy.
+				</p>
+				<h2>
+					Culture</h2>
+				<p>
+				MDIS embraces a culture of lifelong learning to nurture and maximise the potential of our stakeholders.
+				</p>
+				</div>
+				<!-- divContent --></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<!-- divContentBox  -->
+
+                </div>
+            </div>
+            <!-- about us section container end-->
+             </div>
+
+        
+
+     <div class="row">
+        <div class="section-6">
+            <div class="col-md-2 col-sm-2">
+                <div class="contact-1-progress contact-progress">
+                    <div class="">
+                        <span class="progress-title">Local Enquiries</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4">
+                <div class="text-center contact col-md-6 col-sm-6 col-xm-4"><span class="glyphicon glyphicon-envelope icon"></span>etc@mdis.edu.sg</div>
+                <div class="text-center contact col-md-6 col-sm-6 col-xm-4" ><span class="glyphicon glyphicon-earphone icon"></span>+65 6247 9111</div>
+            </div>
+            <div class="col-md-4 col-sm-4">
+                <div class="text-center contact col-md-6 col-sm-6 col-xm-12"><span class="glyphicon glyphicon-envelope icon"></span>ib@mdis.edu.sg</div>
+                <div class="text-center contact col-md-6 col-sm-6 col-xm-12"><span class="glyphicon glyphicon-earphone icon"></span>+65 6278 8000</div>
+            </div>
+            <div class="col-md-2 col-sm-2">
+                <div class="contact-3-progress contact-progress2 col-md-3">
+                    <div class="">
+                        <span class="progress-title">International Enquiries</span>
+                    </div>
+                </div>
+            </div>
+        
+        </div>
+            </div>
+
+         <div class="footer">
+            <!--footer section start-->
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-4 col-sm-4">
+                        <h3 class="footsec-1">ABOUT MDIS<br /><br /></h3>
+                        <div class="links">
+                            <ul>
+                                
+                                        <li><a href='http://www.mdis.edu.sg/about-mdis/corporate-info'>Corporate Info</a></li>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/about-mdis/overview'>About MDIS</a></li>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/about-mdis/green-mdis'>Green MDIS</a></li>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/about-mdis/education-trust-fund'>MDIS Education Trust Fund</a></li>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/about-mdis/institutional-partners'>Institutional Partners</a></li>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/about-mdis/careers'>Careers</a></li>
+                                    
+                                
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4 ">
+                        <div class="col-md-offset-2 col-sm-offset-2">
+                            <h3 class="footsec-1">ALUMNI<br /><br /></h3>
+                            <div class="links">
+                                <ul>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/alumni/overview'>Overview</a></li>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/alumni/alumni-services'>Alumni Services</a></li>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/alumni/get-involved'>Get Involved</a></li>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/alumni/alumni-events'>Alumni Events</a></li>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/alumni/alumni-newsletter'>Alumni Newsletter</a></li>
+                                    
+                                
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                        <h3 class="footsec-1">CAREER ASSISTANCE UNIT<br />(For current students only)</h3>
+                        <div class="links">
+                            <ul>
+                                
+                                        <li><a href='http://www.mdis.edu.sg/career-assistance-unit/overview'>Overview</a></li>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/career-assistance-unit/cau-services'>CAU Services</a></li>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/career-assistance-unit/mdis-experience-workshop'>MDIS Experience Workshop</a></li>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/career-assistance-unit/mdis-career-fair'>MDIS Career Fair</a></li>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/career-assistance-unit/career-articles'>Career Articles</a></li>
+                                    
+                                        <li><a href='http://www.mdis.edu.sg/career-assistance-unit/testimonials'>Testimonials</a></li>
+                                    
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row footer2"  style="box-shadow: 0px 0px 0px #959292, 0px -8px 5px #A59F9F;">
+                <div class=" container">
+                    <div class=""style="margin-top: 17px;">
+					 <div class="col-md-3 col-sm-3 footer_logo_alignment">
+                            <img src='/images/edi-trust-logo.png' width="150"/>
+                        </div>
+                        <div class="col-md-3 col-sm-3 footer_logo_alignment">
+                            <img src='/images/TUV-SUD-logo.png' height="100"/>
+                        </div>
+                        <div class="col-md-3 col-sm-3 footer_logo_alignment ">
+                            <img src='/images/service-class-logo.png' width="150"/>
+                        </div>
+                       
+                        <div class="col-md-3 col-sm-3 footer_logo_alignment">
+                            <img src='/images/management-development-logo.png' width="200"/>
+                        </div>
+                    </div>
+                </div>
+                
+        </div>
+        <div class="row">
+            <div class="virtual">
+                <a href='/virtual-tour-details.aspx'><img class="" src='/images/virtual-tour-home.png' /></a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="social-icon">
+				<div onclick="myFunction()" class="social-control" >
+                     <i class="fa fa-angle-left" aria-hidden="true"></i>
+                </div>
+				<div id="social-action">
+                <ul>
+                    <li>
+                        <a href="http://www.facebook.com/mdis.sg" target="_blank" class="btn btn-social-icon btn-facebook"><i class="fa fa-facebook"></i></a>    
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/MDIS_SG"  target="_blank" class="btn btn-social-icon btn-twitter"><i class="fa fa-twitter"></i></a>
+                    </li>
+                    <li>
+                        <a href="http://www.youtube.com/user/MDISSG" target="_blank" class="btn btn-social-icon btn-youtube"><i class="fa fa-youtube"></i></a>
+                    </li>
+                    <li>
+                        <a href="http://sg.linkedin.com/company/14867" target="_blank" class="btn btn-social-icon btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/mdis_sg/" target="_blank" class="btn btn-social-icon btn-instagram"><img src='/images/instagram-logo.png' width="37" style="margin-left: -7px;"/></a>
+                    </li>
+                    <li>
+                        <a href='/rss-subscription' id='aRss' class="btn btn-social-icon btn-rss"><i class="fa fa-rss"></i></a>
+                    </li>
+                </ul>
+				</div>
+            </div>
+        </div>
+
+<script src="https://use.fontawesome.com/14308cd551.js"></script>
+ <!---social icon script-->
+ <script>
+     $(document).ready(function () {
+         $(".social-control").click(function () {
+             $(".fa-angle-left").toggleClass("fa-angle-left-action");
+         });
+     });
+</script>
+ <script>
+     function myFunction() {
+         var x = document.getElementById('social-action');
+         if (x.style.display === 'none') {
+             x.style.display = 'block';
+         } else {
+             x.style.display = 'none';
+         }
+     }
+</script>
+ <!---social icon script-->
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-17724227-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script> 
+
+
+<!--Start of Zopim Live Chat Script--> 
+<script type="text/javascript">
+    window.$zopim || (function (d, s) {
+        var z = $zopim = function (c) { z._.push(c) }, $ = z.s =
+        d.createElement(s), e = d.getElementsByTagName(s)[0]; z.set = function (o) {
+            z.set.
+            _.push(o)
+        }; z._ = []; z.set._ = []; $.async = !0; $.setAttribute('charset', 'utf-8');
+        $.src = '//v2.zopim.com/?2AykdX6mhIXJFhTt6Wod4DkXSOskDhFp'; z.t = +new Date; $.
+        type = 'text/javascript'; e.parentNode.insertBefore($, e)
+    })(document, 'script');
+</script> 
+<!--End of Zopim Live Chat Script-->
+
+<script type="text/javascript">
+    Weekly Report:Corporate Visits/Meetings
+</script>
+
+<script src="//tt.mbww.com/tt-c73c63198a1338f0d19547e3d07db9dc25babedc30ae35b80426d48afe73624c.js" async>
+</script>
+
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 983471092;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/983471092/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<script type="text/javascript">
+    _bizo_data_partner_id = "8431";
+</script>
+<script type="text/javascript">
+    (function () {
+        var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";
+        b.async = true;
+        b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+        s.parentNode.insertBefore(b, s);
+    })();
+</script>
+<noscript>
+  <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=8431&fmt=gif" />
+</noscript>
+    </div>
+       
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <!-- /form	-->
+
+<!-- Google Code for Remarketing Tag -->
+ <!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+ <script type="text/javascript">
+ /* <![CDATA[ */
+ var google_conversion_id = 930871303;
+ var google_custom_params = window.google_tag_params;
+ var google_remarketing_only = true;
+ /* ]]> */
+ </script>
+ <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+ </script>
+ <noscript>
+ <div style="display:inline;">
+ <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/930871303/?guid=ON&amp;script=0"/>
+ </div>
+ </noscript>
+</body>
+</html>
